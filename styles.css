@@ -1,0 +1,184 @@
+body {
+    background-color: gray;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.s1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.end1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.s2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.f2cont {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.end3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.jccont {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.end4 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.end4c {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.rtcont {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.s3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.end2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.end3c {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dv {
+    width: 500px;
+}
+
+.f2coin {
+    width: 200px;
+    height: 150px;
+}
+
+.f2coin2 {
+    width: 550px;
+
+}
+
+.rt {
+    width: 200px;
+    height: 150px;
+
+}
+
+.rt2 {
+    width: 300px;
+    height: 300px;
+}
+
+.jc {
+    width: 200px;
+}
+
+.jc2 {
+    width: 300px;
+}
+
+.bcomp {
+    width: 600px;
+}
+
+.enb {
+    width: 300px;
+    height: 350px;
+}
+
+.key {
+    width: 2px;
+    height: 1px;
+    position: absolute;
+    top: 20%;
+    left: 12%;
+}
+
+.chill {
+    width: 550px;
+}
+
+.batfly {
+    width: 650px;
+}
+
+.harvey {
+    width: 600px;
+}
+
+.joker1 {
+    width: 325px;
+}
+
+.jokeimg {
+    width: 700px;
+}
